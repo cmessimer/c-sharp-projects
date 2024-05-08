@@ -1,0 +1,14 @@
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/bin/Debug/net8.0/FirstProgramCDM
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/bin/Debug/net8.0/FirstProgramCDM.deps.json
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/bin/Debug/net8.0/FirstProgramCDM.runtimeconfig.json
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/bin/Debug/net8.0/FirstProgramCDM.dll
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/bin/Debug/net8.0/FirstProgramCDM.pdb
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.AssemblyInfoInputs.cache
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.AssemblyInfo.cs
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.csproj.CoreCompileInputs.cache
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.dll
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/refint/FirstProgramCDM.dll
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.pdb
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/FirstProgramCDM.genruntimeconfig.cache
+/Users/chad.messimer/Documents/dev/code/C# Learning/c#_fundamentals_pluralsight/FirstProgramCDM/obj/Debug/net8.0/ref/FirstProgramCDM.dll
