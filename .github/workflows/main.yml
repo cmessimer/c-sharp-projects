@@ -1,1 +1,31 @@
-#Insert code
+name: C# Application Build and Run
+
+on: 
+  push:
+    paths:
+      - 'FirstProgramCDM/**'
+  pull_request:
+    paths:
+      - 'FirstProgramCDM/**'
+
+jobs:
+  build_and_run:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '6.0' # Specify the .NET version required
+
+    - name: Restore Dependencies
+      run: dotnet restore FirstProgramCDM/FirstProgramCDM.csproj
+
+    - name: Build
+      run: dotnet build FirstProgramCDM/FirstProgramCDM.csproj --configuration Release --no-restore
+
+    - name: Run
+      run: dotnet run --project FirstProgramCDM/FirstProgramCDM.csproj
